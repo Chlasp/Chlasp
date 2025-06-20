@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Balogun David
 ===========================================================================================================================================
 
-I'm deeply passionate about Coding, currently immersed in my major at University of Maryland. My professional journey has taken me on diverse paths. In my toolkit, you'll discover proficiency in Python, Java, and mastery of tools like Git and VS Code. Beyond coding, I excel in the broader domains of technical writing, Communication, and Data Manipulation.
+I'm deeply passionate about Coding, currently immersed in my Information Science major at the University of Maryland. My professional journey has taken me on diverse paths. In my toolkit, you'll find proficiency in Python and Java, as well as mastery of tools like Git and VS Code. Beyond coding, I excel in the broader domains of technical writing, Communication, and Data Manipulation.
 
 
 * 🌍  I'm based in Potomac, MD
